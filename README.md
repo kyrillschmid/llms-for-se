@@ -17,4 +17,7 @@ One effective way is to keep the human in the loop, to steer the process, readju
 
 When the model has done its job of generating an artifact (story, epic, test,...) the human can take back control by adjusting the model output thereby preventing the model to build upon a flaw that it made in an earlier step. In return, the user can take a more holistic perspective by guiding the process as the cognitive load will not be consumed by creating the write-intensive details.
 
-![AI Req-Bot](ai-re.png)
+<div align="center">
+    <img src="ai-re.jpg" alt="AI Req-Bot" />
+</div>
+
