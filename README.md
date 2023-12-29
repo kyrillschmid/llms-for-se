@@ -4,7 +4,7 @@ Software is pivotal for almost all services that we use in our daily lives from 
 
 While there are various well established process frameworks for building software a lot of effort and costs stem from manual labour, e.g. during the design phase like defining requirements, writing user journeys and epics or when designs are being translated into software entities like classes, functions and attributes or when writing tests and code. Additionally, for software services providers creating an offer for requests (i.e. RfPs) is a time-consuming task because it takes a lot of time to fully understand the requirements, before being able to estimate efforts and costs.
 
-![se.jpg]
+![Example Image](se.jpg)
 
 In the mean time we have seen a lot of evidence that AI is capable of generating high-quality text, images, voice and more that is often undistinguishable from human generated content.
 However, when naively asking ChatGPT to generate an app to manage your personal finances or create a website for an online shop with all the bells and whistles there is only a little chance that something overly helpful will be outputted. While initially you might get some promising results it is very likely that at some point ChatGPT will lose touch of relevant context if the conversation becomes longer or that partial results will be inconsistent which requires the user to be technically skilled to spot mistakes on its own and put things together correctly.
