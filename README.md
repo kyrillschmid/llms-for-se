@@ -1,3 +1,5 @@
+## Supporting Software Development with LLMs
+
 Software is pivotal for almost all services that we use in our daily lives from using the dishwasher to driving our car. Paradoxically, although software helps us to do things fast and efficient, building software often is a cumbersome process with many tedious manual and mostly unautomated steps.
 
 While there are various well established process frameworks for building software a lot of effort and costs stem from manual labour, e.g. during the design phase like defining requirements, writing user journeys and epics or when designs are being translated into software entities like classes, functions and attributes or when writing tests and code. Additionally, for software services providers creating an offer for requests (i.e. RfPs) is a time-consuming task because it takes a lot of time to fully understand the requirements, before being able to estimate efforts and costs.
